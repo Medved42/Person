@@ -1,0 +1,5 @@
+﻿  Person.cpp
+\\Main-serv-00\обмен\Группы\БВ111(СТ-3)\Medvedev\Person\Person.cpp(52,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Name"
+\\Main-serv-00\обмен\Группы\БВ111(СТ-3)\Medvedev\Person\Person.cpp(52,13): error C2065: Name: необъявленный идентификатор
+\\Main-serv-00\обмен\Группы\БВ111(СТ-3)\Medvedev\Person\Person.cpp(53,13): error C2065: Name: необъявленный идентификатор
+\\Main-serv-00\обмен\Группы\БВ111(СТ-3)\Medvedev\Person\Person.cpp(54,11): error C2065: Name: необъявленный идентификатор
